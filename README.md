@@ -4,22 +4,22 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(6 15, 208)
 
 ### Student Name:  
-(First and Last Name)
+(Ajay Bhagwandin)
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+(We made an expense calcuator and convered it from $ to %.)
 
 ### View Project:
 (Replace this statement with your GitHub Page URL that was created when you 
  published the project.)
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. I learned how to calculate functions
+2. I learned to convert money into percentages
+3. (I also learned just how important case sensitive really is
 
 
 

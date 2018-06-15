@@ -6,7 +6,7 @@
           Filename: expenseCalculator.js
         *************************************************************************************************/
      
-         function calculatePercentages() {
+       function calculatePercentages() {
             
                   /***********************************************************************************************  
                   *   Purpose of the calculatePercentages method:  
